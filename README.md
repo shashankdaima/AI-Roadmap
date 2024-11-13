@@ -26,8 +26,8 @@
 
 ## 2. Foundation ML/DL (3-4 months)
 - **Classical Machine Learning**
-  - Supervised Learning
-    - Linear/Logistic Regression
+  - Supervised Learning 
+    - Linear/Logistic Regression (https://www.youtube.com/watch?v=jerPVDaHbEA&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ&index=2)
     - Decision Trees, Random Forests
     - SVMs
     - Feature engineering
