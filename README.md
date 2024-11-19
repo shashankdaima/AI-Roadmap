@@ -157,6 +157,8 @@
    - BERT, GPT series
    - Stable Diffusion
    - RL papers (PPO, A3C)
+3. https://github.com/jrin771/Everything-LLMs-And-Robotics/blob/main/README.md?plain=1
+
 
 ## Contributing Knowledge
 1. Start a technical blog
