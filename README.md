@@ -19,10 +19,10 @@
     - Convex optimization
     
 - **Programming**
-  - Python fundamentals
+  - ~Python fundamentals~
   - NumPy, Pandas, Matplotlib
-  - Git version control
-  - Basic software engineering practices
+  - ~Git version control~
+  - ~Basic software engineering practices~
 
 ## 2. Foundation ML/DL (3-4 months)
 - **Classical Machine Learning**
